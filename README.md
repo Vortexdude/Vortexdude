@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+👋 Hi, I’m Nitin
+ I am a DevOps guy with knowledge of backend development in Python, and I am open to work with various Cloud providers services .
+🫶🏻 Love complex database queries, scalable system architecture design and clean code.
+seedling I have fundamental data exploration & Machine Learning skills and enthusiastic to implement it whenever possible.
+dart Aim is to always learn, grow and create positive environment around myself blush.
+for implementation of cutting-edge technologies to reduce latency and increase customers happiness.
+ You can contact me for any collaberation, questions or software development projects.
+or email email me at - nitinnamdeo456@gmail.com.
