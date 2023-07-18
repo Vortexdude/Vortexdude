@@ -31,5 +31,9 @@ Here are some ideas to get you started:
   * scripting laguage
     + Bash
     + Python
+  * Docker
+  * Orchestration tools -
+    + Kubernetes
+    + Openshift
 - 📫 You can reach me at [linkedin](https://www.linkedin.com/in/nitin-namdev-427430121)
 - email me at [nitinnamdeo456@gmail.com](mailto:nitinnamdeo456@gmail.com?subject=Hello_Nitin)
