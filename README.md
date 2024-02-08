@@ -8,6 +8,11 @@
 </p> 
 
 
+<div>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=vortexdude&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vortexdude&layout=compact" />
+</div>
+
 ![Static Badge](https://img.shields.io/badge/Nitin_Namdev-DevOps-brightgreen)
 
 
@@ -32,25 +37,9 @@
 ![Azure](https://img.shields.io/badge/-Azure-05122A?style=flat&logo=Azure&logoColor=1572B6)&nbsp;
 ![ChatGPT](https://img.shields.io/badge/-ChaptGPT-05122A?style=flat&logo=ChatGPT&logoColor=007ACC)&nbsp;\
 ![Web Development](https://img.shields.io/badge/-Web%20Development-05122A?style=flat&logo=Web-Development&logoColor=007ACC)&nbsp;
-- having skills
-  * cloud providers
-     + aws
-     + azure
-     + IBM
-  * automation-tools
-     + ansible
-     + terraform
-     + jenkins
-     + GitLab
-     + Azure DevOps
-     + Maven
-  * scripting laguage
-    + Bash
-    + Python
-  * Docker
-  * Orchestration tools -
-    + Kubernetes
-    + Openshift
+
+
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=vortexdude)](https://github.com/vortexdude)
 - 📫 You can reach me at [linkedin](https://www.linkedin.com/in/nitin-namdev-427430121)
