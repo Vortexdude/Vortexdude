@@ -1,21 +1,16 @@
-### Hi there 👋
+<p align="center">
+  <img width="140" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" />
+  <h2 align="center">Nitin Namdev</h2>
+</p>
 
-<!--
-**Vortexdude/vortexdude** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There+,+I'm+Nitin+Namdev+;A+DevOps+Guy">
+</p> 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-- 🔭 I am a DevOps guy with knowledge of backend development in Python, and I am open to work with various Cloud providers services.
-- 🌱 I’m currently learning flask api with swagger api documentation.
+![Static Badge](https://img.shields.io/badge/Nitin_Namdev-DevOps-brightgreen)
+
+
 ## Technical Skills ✔
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python)&nbsp;
@@ -56,5 +51,7 @@ Here are some ideas to get you started:
   * Orchestration tools -
     + Kubernetes
     + Openshift
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=vortexdude)](https://github.com/vortexdude)
 - 📫 You can reach me at [linkedin](https://www.linkedin.com/in/nitin-namdev-427430121)
 - email me at [nitinnamdeo456@gmail.com](mailto:nitinnamdeo456@gmail.com?subject=Hello_Nitin)
