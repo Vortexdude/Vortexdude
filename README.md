@@ -17,4 +17,6 @@
 
 🔧 With a strong foundation in these technologies, I thrive in creating automated deployment pipelines, optimizing cloud infrastructure, and implementing scalable solutions that streamline development processes.
 
-🌟 Let's connect and collaborate on exciting DevOps projects together!
+🌟 Let's connect and collaborate on exciting DevOps projects together! </br>
+[biodrop](https://www.biodrop.io/Vortexdude)
+[email](mailto:nitinnamdev456@gmail.com)
